@@ -3,3 +3,5 @@ a
 Estou a fazer alterações ao ficheiro
 
 ALTERAÇÕES EFECTUADAS NO BRANCH 'NOVAFEATURE'
+
+ALTERAÇÃO EM NOVAFEATURE
